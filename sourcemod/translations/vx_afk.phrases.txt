@@ -1,0 +1,46 @@
+"Phrases"
+{
+	"prefix"
+	{
+		"tr"	"{darkred}[ {olive}VortéX AFK {darkred}]{default}"
+		"en"	"{darkred}[ {olive}VortéX AFK {darkred}]{default}"
+	}
+	"MustBeInTeam"
+	{
+		"tr"	"{default}Bu komutu kullanabilmek için bir takımda olmalısın."
+		"en"	"{default}You must be in a team to use this command."
+	}
+	"nowAfk"
+	{
+		"tr"	"{default}AFK oldunuz."
+		"en"	"{default}You are now AFK."	
+	}
+	"nowAfkAll"
+	{
+		"#format"	"{1:s}"
+		"tr"	"{green}{1}, {default}AFK oldu."
+		"en"	"{green}{1} {default}is now AFK."
+	}
+	"unAfk"
+	{
+		"#format"	"{1:s}"
+		"tr"	"{1} {default}takımına atandınız!"
+		"en"	"{default}You have been assigned to the {1} {default}team."
+	}
+	"unAfkAll"
+	{
+		"#format"	"{1:s}, {2:s}"
+		"tr"	"{green}{1}, {2} {default}takımına atandı!"
+	}
+	"needToBeInSpec"
+	{
+		"tr"	"{default}İzleyici takımında olmanız gerekiyor!"
+		"en"	"{default}You need to be in the Spectators team!"
+	}
+	"minHp"
+	{
+		"#format"	"{1:d}"
+		"tr"	"{default}AFK komutunu kullanabilmek için minimum {grey}{1}HP {default}gerekiyor."
+		"en"	"{default}To use the AFK command you must have a minimum of {grey}{1}HP{default}."
+	}
+}
